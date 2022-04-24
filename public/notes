@@ -1,0 +1,9 @@
+npm i redux react-redux;
+pure function-
+
+
+redux packcage-
+reducer-reducer is function,we take two arguments first is state and actions
+
+
+interface:

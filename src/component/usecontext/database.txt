@@ -1,0 +1,6 @@
+create data base-fita;
+create table-fita.student;
+create values-name,id,mobile number;
+dont use create,delete and update and dropout in company project;
+only using select *;
+http,tcp,udp,socket,https
